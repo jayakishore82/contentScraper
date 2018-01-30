@@ -1,0 +1,21 @@
+{
+  "name": "webscraper",
+  "version": "0.0.1",
+  "description": "Content scraper which generates a CSV file",
+  "main": "scraper.js",
+  "dependencies": {
+    "crawler": "^1.1.2",
+    "jsonexport": "^2.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
+  },
+  "keywords": [
+    "webscraper",
+    "shirts4mike"
+  ],
+  "author": "Jaya Babu",
+  "license": "MIT"
+}
